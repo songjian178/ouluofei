@@ -338,7 +338,7 @@ footer{
 }
 
 #cover {
-	background: url(http://www.meweidea.com/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWRlbmQxVmxST2QwMXRhazQwZVdSa1V6WjRhWFpwYWxoRUJqb0dSVlE2RUdScGMzQnZjMmwwYVc5dVNTSkZhVzVzYVc1bE95Qm1hV3hsYm1GdFpUMGlhR1ZoWkdWeUxXSm5MbXB3WnlJN0lHWnBiR1Z1WVcxbEtqMVZWRVl0T0NjbmFHVmhaR1Z5TFdKbkxtcHdad1k3QmxRNkVXTnZiblJsYm5SZmRIbHdaVWtpRDJsdFlXZGxMMnB3WldjR093WlUiLCJleHAiOiIyMDE5LTEyLTE3VDAzOjQ4OjQxLjAzMVoiLCJwdXIiOiJibG9iX2tleSJ9fQ==--d38b9d0be378737d61731c65c567182da65c3e54/header-bg.jpg?content_type=image%2Fjpeg&disposition=inline%3B+filename%3D%22header-bg.jpg%22%3B+filename%2A%3DUTF-8%27%27header-bg.jpg) center top no-repeat;  
+	background: url(./img/header-bg.jpg) center top no-repeat;  
   -webkit-background-size: cover;
    -moz-background-size: cover;
      -o-background-size: cover;
@@ -636,7 +636,7 @@ footer{
   padding: 120px 0 145px 0;
 }
 #about .container{
-  max-width: 900px;
+  max-width: 700px;
 }
 #about .logo{
   margin-top: 100px;
