@@ -32,7 +32,7 @@ $(document).ready(function() {
       slides = elem.data('images').split(',');
 
     for (var i = 0; i < slides.length; ++i) {
-      slidesHtml = slidesHtml + '<img src='+slides[i]+' alt=""  data-dismiss="modal">';
+      slidesHtml = slidesHtml + '<img src='+slides[i]+' alt=""  data-dismiss="modal" width="500px">';
     }
 
     $('#project-modal').on('show.bs.modal', function () {
@@ -48,7 +48,6 @@ $(document).ready(function() {
         pagination: true
       });
     }).modal();
-    
   });
 
   $('#project-modal').on('hidden.bs.modal', function () {
